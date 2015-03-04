@@ -1,0 +1,15 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_CLASSES_ROOT\nfk]
+@="URL: trx Protocol"
+"EditFlags"=hex:02,00,00,00
+"URL Protocol"=""
+
+[HKEY_CLASSES_ROOT\nfk\DefaultIcon]
+
+[HKEY_CLASSES_ROOT\nfk\shell]
+
+[HKEY_CLASSES_ROOT\nfk\shell\open]
+
+[HKEY_CLASSES_ROOT\nfk\shell\open\command]
+@="\"C:\\box\\nfkLive_client\\a.exe\" \"%2\""

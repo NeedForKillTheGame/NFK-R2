@@ -1,0 +1,138 @@
+Created by 3d[Power]
+
+=Programming
+
+connect
+coolant
+XBitnik
+booble-kun
+3d[Power]
+
+
+
+=Sounds
+
+Id Software
+
+
+
+=Graphics
+
+connect
+3d[Power]
+Deadlock
+Eagla
+[LD]:Surgeon
+XeN
+Dammer
+YESMAD
+
+
+
+=Beta Testers
+
+Rh
+Bozon
+ScorpION
+
+ARMADoN
+Barracuda
+[DJ]_Bomberm@n
+blade_kgb
+c@tr1N
+Dammer
+D@$HA
+Deadlock
+DeaTh
+[DJ]_Dimps
+D*oo*M
+Eagla
+Eugen~3D
+EXcEllent
+.:FeniX:.
+FuNTiK
+G3x.Atom
+GOD[WP]
+Hellraiser
+Horned Reaper
+Hramovv
+IMPULSE
+Jackal
+Kacnep
+KAP^COH
+Kesha
+KoBa
+[LD]:Shadow
+[LD]:Surgeon
+[NFK]-DJ_Web
+[NFK]-HiT_mAn|G3x
+[NFK]-PQR
+[NFK]-RockY
+Merlin[XP]
+mkl
+OverMind
+Paul "Elf" Bulatov
+PH@NT0M
+Psibug
+Snezzy
+Sokoloff
+Spike
+Stens
+the_ghost
+VAMPiRE
+Virus
+WiCKed
+XeN
+
+
+
+=Special Thanks to
+
+ID Software for great games.
+MesiteL for hardcore beta testing :)
+MadFrog for nfk planet masterserver code.
+Drug-it for supporting nfk planet at q3.demos.su
+Lifepower, u know for what :)
+
+
+
+=License agreement
+
+IF YOU DO NOT AGREE TO THE TERMS OF THIS 
+AGREEMENT, THEN DO NOT USE THIS SOFTWARE.
+
+
+Limited Warranty. 3d[Power] expressly disclaims any warranty
+for the Program, Editor and Manual(s). The Program, Editor
+and Manual(s) are provided "as is" without warranty of any
+kind, either express or implied, including, without
+limitation, the implied warranties of  merchantability,
+fitness for a particular purpose, or noninfringement.
+
+
+Responsibilities.  you may not, in whole or in part, 
+reproduce, translate, reverse engineer, derive source
+code, modify, disassemble, decompile, create derivative
+works based on the Program, or remove any proprietary
+notices or labels on the Program without the prior
+consent, in writing from 3d[Power].
+
+
+You are entitled to use the Program for your own
+use, but you are not be entitled to sell or to rent,
+lease or license the Program to others without the
+prior written consent from 3d[Power].
+
+
+Program Transfer. You may freely redistribute this software
+provided the original installation package is unmodified.
+
+
+This software is Freeware.
+Quake III Arena (tm) copyright ID Software.
+
+
+
+=Need For Kill homepage:
+
+http://www.3dpower.org

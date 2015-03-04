@@ -1,0 +1,7 @@
+console: NFK Engine ver 070cR2.
+--- Fs_startup : 02.07.2010 15:16:04 ---
+Base directory: "C:\box\NFK-R2-SDK\SOURCES\GAME\basenfk"
+Loading graphics...
+console: Failed to open graph.d
+-- Direct3D8 closed --
+console: cannot save banlist.txt to C:\box\NFK-R2-SDK\SOURCES\GAME\basenfk\banlist.txt.
